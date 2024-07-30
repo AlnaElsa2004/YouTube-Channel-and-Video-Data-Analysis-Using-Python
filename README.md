@@ -88,4 +88,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-By following the instructions provided in this README, you can set up and run the YouTube Channel and Video Data Analysis project. This project serves as a starting point for anyone aspiring to become a Data Analyst, providing hands-on experience with real-world data extraction, analysis, and visualization.
+This project serves as a starting point for anyone aspiring to become a Data Analyst, providing hands-on experience with real-world data extraction, analysis, and visualization.
